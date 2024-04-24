@@ -1,0 +1,49 @@
+@media screen and (max-width: 697px) {
+    .nav-2 h4 {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 385px) {
+    .nav-3 {
+        display: none !important;
+    }
+    .nav-items {
+        padding: 10px 5px !important;
+    }
+}
+
+@media screen and (max-width: 517px) {
+    .phone-invoice img {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 999px) {
+    .content-space {
+        display: block;
+    }
+    .grid-1 {
+        display: block !important;
+    }
+}
+
+@media screen and (max-width: 775px) {
+    .business-details .business {
+        padding: 0px 20px;
+    }
+}
+
+@media screen and (max-width: 359px) {
+    .offers-items {
+        flex-wrap: wrap;
+    }
+}
+
+
+/* @media screen and (max-width: 573px) {
+    .border-2 button {
+        place-items: center !important;
+    }
+} */
